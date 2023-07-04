@@ -1,0 +1,40 @@
+{
+  "short_name": "Almaqar",
+  "name": "Almaqar currency bussiness mangement software",
+  "icons": [
+    {
+      "src": "imgs/logo.ico",
+      "type": "image/ico",
+      "sizes": "940x788"
+    },
+    {
+      "src": "imgs/logo.ico",
+      "type": "image/ico",
+      "sizes": "940x788"
+    }
+  ],
+  "start_url": "http://latestcurrency.bumedianbm.com/",
+  "background_color": "#1d2741",
+  "display": "standalone",
+  "theme_color": "#1d2741",
+  "shortcuts": [
+    {
+      "name": "Almaqar currency bussiness mangement software",
+      "short_name": "Almaqar",
+      "description": "Almaqar currency exchange POS. from here you can control your currency exchange by easy way from any where by Almaqar currency exchange",
+      "url": "index",
+      "icons": [{ "src": "imgs/logo.ico", "sizes": "940x788" }]
+    },
+    {
+      "name": "Almaqar currency bussiness mangement software",
+      "short_name": "Almaqar",
+      "description": "Almaqar currency exchange POS. from here you can control your currency exchange by easy way from any where by Almaqar currency exchange",
+      "url": "login",
+      "icons": [{ "src": "imgs/logo.ico", "sizes": "940x788" }]
+    }
+  ],
+  "description": "Almaqar currency exchange POS. from here you can control your currency exchange by easy way from any where by Almaqar currency exchange",
+  "screenshots": [
+
+  ]
+}

@@ -1,0 +1,145 @@
+[02-Mar-2021 14:02:22 Europe/Berlin] PHP Warning:  file_get_contents( https://www.google.com/recaptcha/api/siteverify): failed to open stream: No such file or directory in C:\xampp-3\htdocs\almaqar_F5\almaqar_F10\register.php on line 48
+[06-Mar-2021 15:31:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp-3\htdocs\almaqar_F5\almaqar_F10\includes\treasury.php on line 31
+[07-Mar-2021 11:28:47 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp-3\htdocs\almaqar_F5\almaqar_F10\cash.php on line 311
+[07-Mar-2021 11:28:47 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp-3\htdocs\almaqar_F5\almaqar_F10\cash.php on line 322
+[09-Mar-2021 12:03:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\home.php:416
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\home.php(416): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\home.php on line 416
+[09-Mar-2021 12:05:02 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cash.php:214
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cash.php(214): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cash.php on line 214
+[09-Mar-2021 12:05:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\bonds.php:210
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\bonds.php(210): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\bonds.php on line 210
+[09-Mar-2021 12:05:14 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cards.php:212
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cards.php(212): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cards.php on line 212
+[09-Mar-2021 12:05:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cards.php:212
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cards.php(212): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cards.php on line 212
+[09-Mar-2021 12:05:21 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\investment.php:216
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\investment.php(216): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\investment.php on line 216
+[09-Mar-2021 12:16:27 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cash.php:214
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cash.php(214): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\cash.php on line 214
+[09-Mar-2021 12:16:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'whb' in 'where clause' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\reports.php:2456
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\reports.php(2456): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\reports.php on line 2456
+[09-Mar-2021 12:17:05 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cos_id' in 'field list' in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\home.php:416
+Stack trace:
+#0 C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\home.php(416): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\home.php on line 416
+[09-Mar-2021 12:23:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp-2\htdocs\almaqar_F14\almaqar_F10\config\connect.php on line 36
+[11-Mar-2021 13:45:56 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 13:45:56 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 13:45:56 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 13:45:56 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 21:18:08 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 21:18:08 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 21:18:08 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[11-Mar-2021 21:18:08 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[12-Mar-2021 13:17:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[12-Mar-2021 13:17:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[12-Mar-2021 13:17:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[12-Mar-2021 13:17:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 78
+[12-Mar-2021 13:32:10 Europe/Berlin] PHP Warning:  include(includes/time_functions.php): failed to open stream: No such file or directory in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 28
+[12-Mar-2021 13:32:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/time_functions.php' for inclusion (include_path='C:\xampp-3\php\PEAR') in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 28
+[12-Mar-2021 13:32:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function time_ago() in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 82
+[12-Mar-2021 13:33:16 Europe/Berlin] PHP Warning:  include(includes/time_functions.php): failed to open stream: No such file or directory in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 28
+[12-Mar-2021 13:33:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/time_functions.php' for inclusion (include_path='C:\xampp-3\php\PEAR') in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 28
+[12-Mar-2021 13:33:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function time_ago() in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 82
+[12-Mar-2021 13:33:41 Europe/Berlin] PHP Warning:  include(includes/time_functions.php): failed to open stream: No such file or directory in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 28
+[12-Mar-2021 13:33:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'includes/time_functions.php' for inclusion (include_path='C:\xampp-3\php\PEAR') in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 28
+[12-Mar-2021 13:33:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function time_ago() in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\xampp-3\htdocs\almaqar_F5\almaqar_F15\packages.php on line 82
+[22-Mar-2021 15:55:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php:56
+Stack trace:
+#0 C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php(56): PDOStatement->fetchAll()
+#1 {main}
+  thrown in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php on line 56
+[22-Mar-2021 16:11:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php:56
+Stack trace:
+#0 C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php(56): PDOStatement->fetchAll()
+#1 {main}
+  thrown in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php on line 56
+[22-Mar-2021 16:16:31 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php:56
+Stack trace:
+#0 C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php(56): PDOStatement->fetchAll()
+#1 {main}
+  thrown in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\email_check.php on line 56
+[23-Mar-2021 16:34:06 Europe/Berlin] PHP Warning:  require(../class/class.phpmailer.php): failed to open stream: No such file or directory in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\forgot_password.php on line 77
+[23-Mar-2021 16:34:06 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../class/class.phpmailer.php' (include_path='C:\xampp-3\php\PEAR') in C:\xampp-3\htdocs\almaqar_F5\almaqar_F22\forgot_password.php on line 77
+[29-Mar-2021 13:52:35 America/Los_Angeles] PHP Fatal error:  Call to a member function prepare() on null in H:\root\home\bumedian-001\www\currency\forgot_verifi.php on line 80
+[31-Mar-2021 03:17:17 America/Los_Angeles] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in H:\root\home\bumedian-001\www\currency\config\connect.php on line 36
+[31-Mar-2021 03:17:17 America/Los_Angeles] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in H:\root\home\bumedian-001\www\currency\config\connect.php on line 36
+[31-Mar-2021 05:35:09 America/Los_Angeles] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in H:\root\home\bumedian-001\www\currency\config\connect.php on line 36
+[31-Mar-2021 05:35:09 America/Los_Angeles] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in H:\root\home\bumedian-001\www\currency\config\connect.php on line 36
+[02-Apr-2021 11:39:26 America/Los_Angeles] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in H:\root\home\bumedian-001\www\currency\config\connect.php on line 36
+[03-May-2021 13:45:13 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 1' in C:\xampp\htdocs\projects\currency\cash.php:48
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\cash.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\cash.php on line 48
+[03-May-2021 13:45:17 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 1' in C:\xampp\htdocs\projects\currency\cash.php:48
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\cash.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\cash.php on line 48
+[04-May-2021 12:00:26 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 4' in C:\xampp\htdocs\projects\currency\bonds.php:46
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\bonds.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\bonds.php on line 46
+[04-May-2021 12:00:30 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 4' in C:\xampp\htdocs\projects\currency\bonds.php:46
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\bonds.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\bonds.php on line 46
+[04-May-2021 12:00:31 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 4' in C:\xampp\htdocs\projects\currency\bonds.php:46
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\bonds.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\bonds.php on line 46
+[04-May-2021 12:00:44 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 4' in C:\xampp\htdocs\projects\currency\bonds.php:46
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\bonds.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\bonds.php on line 46
+[04-May-2021 12:26:44 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 4' in C:\xampp\htdocs\projects\currency\bonds.php:46
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\bonds.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\bonds.php on line 46
+[04-May-2021 12:26:47 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'bill' at row 4' in C:\xampp\htdocs\projects\currency\bonds.php:46
+Stack trace:
+#0 C:\xampp\htdocs\projects\currency\bonds.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\projects\currency\bonds.php on line 46
+[06-May-2021 08:58:18 Europe/Berlin] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\projects\currency\config\connc.php on line 8
+[06-May-2021 08:58:18 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\projects\currency\config\connc.php on line 8

@@ -1,0 +1,45 @@
+[04-May-2021 10:12:37 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Bond.php on line 358
+[04-May-2021 10:13:23 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Bond.php on line 358
+[04-May-2021 12:52:23 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Transfar.php on line 348
+[04-May-2021 12:52:24 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Transfar.php on line 348
+[04-May-2021 12:52:27 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Transfar.php on line 348
+[04-May-2021 12:52:30 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Transfar.php on line 348
+[04-May-2021 12:52:32 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Transfar.php on line 348
+[04-May-2021 12:52:34 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Transfar.php on line 348
+[05-May-2021 13:23:14 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 351
+[05-May-2021 13:23:14 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 351
+[05-May-2021 13:23:17 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 351
+[05-May-2021 13:27:53 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 352
+[05-May-2021 13:28:30 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 352
+[05-May-2021 13:28:33 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 352
+[05-May-2021 13:34:44 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 352
+[05-May-2021 13:36:03 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 354
+[05-May-2021 13:36:07 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 354
+[05-May-2021 13:36:12 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 354
+[05-May-2021 13:49:50 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 354
+[05-May-2021 13:49:52 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 354
+[05-May-2021 14:06:07 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 387
+[05-May-2021 14:06:09 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 387
+[05-May-2021 14:06:11 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 387
+[05-May-2021 14:06:50 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 390
+[05-May-2021 14:06:59 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 390
+[05-May-2021 14:08:09 Europe/Berlin] PHP Fatal error:  Call to undefined function baes_url() in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 135
+[05-May-2021 14:08:09 Europe/Berlin] PHP Fatal error:  Call to undefined function baes_url() in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 135
+[05-May-2021 14:08:17 Europe/Berlin] PHP Fatal error:  Call to undefined function baes_url() in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 135
+[05-May-2021 14:08:39 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 390
+[05-May-2021 14:11:30 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 390
+[05-May-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 443
+[05-May-2021 14:23:03 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 494
+[05-May-2021 14:28:15 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 605
+[05-May-2021 14:30:48 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 679
+[05-May-2021 14:31:22 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 679
+[06-May-2021 07:58:55 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 679
+[06-May-2021 08:07:04 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 879
+[06-May-2021 08:11:12 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 881
+[06-May-2021 08:20:58 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 881
+[06-May-2021 08:25:52 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 881
+[06-May-2021 08:26:33 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 883
+[06-May-2021 08:30:17 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 883
+[06-May-2021 08:30:32 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 883
+[06-May-2021 08:32:55 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 883
+[06-May-2021 08:48:27 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\projects\ci\application\views\Transaction\Cards.php on line 48
